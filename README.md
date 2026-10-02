@@ -76,3 +76,6 @@ The project uses image preprocessing and a Convolutional Neural Network (CNN) im
 ## Disclaimer
 
 This is a research and educational image-classification project using the BreakHis dataset. It is not a clinical diagnostic system.
+## Confusion Matrix
+
+![CNN Confusion Matrix](./confusion_matrix.png)
