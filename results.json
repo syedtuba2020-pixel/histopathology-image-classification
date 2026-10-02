@@ -1,0 +1,23 @@
+{
+    "project_title": "Histopathology Image Classification Using Deep Learning | Python | TensorFlow | 2026",
+    "dataset": "BreakHis",
+    "split": "Fold 1",
+    "test_images": 2904,
+    "image_size": "128x128",
+    "model": "Convolutional Neural Network (CNN)",
+    "test_loss": 0.4619,
+    "accuracy": 0.8271,
+    "precision": 0.8227,
+    "recall": 0.9372,
+    "f1_score": 0.8762,
+    "confusion_matrix": [
+        [
+            625,
+            383
+        ],
+        [
+            119,
+            1777
+        ]
+    ]
+}
