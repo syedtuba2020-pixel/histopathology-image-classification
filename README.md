@@ -79,7 +79,12 @@ This is a research and educational image-classification project using the BreakH
 ## Confusion Matrix
 
 ![CNN Confusion Matrix](./confusion_matrix.png)
-README.md
-confusion_matrix.png
-training_validation_accuracy.png
-training_validation_loss.png
+## Training Performance
+
+### Training and Validation Accuracy
+
+![Training and Validation Accuracy](./training_validation_accuracy.png)
+
+### Validation Loss
+
+![Validation Loss](./training_validation_loss.png)
