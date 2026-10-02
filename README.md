@@ -88,3 +88,13 @@ This is a research and educational image-classification project using the BreakH
 ### Validation Loss
 
 ![Validation Loss](./training_validation_loss2.png)
+## Project Structure
+
+```text
+histopathology-image-classification/
+│
+├── README.md
+├── results.json
+├── confusion_matrix.png
+├── training_validation_accuracy.png
+└── training_validation_loss.png
