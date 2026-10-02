@@ -83,8 +83,8 @@ This is a research and educational image-classification project using the BreakH
 
 ### Training and Validation Accuracy
 
-![Training and Validation Accuracy](./training_validation_accuracy.png)
+![Training and Validation Accuracy](./training_validation_accuracy1.png)
 
 ### Validation Loss
 
-![Validation Loss](./training_validation_loss.png)
+![Validation Loss](./training_validation_loss2.png)
