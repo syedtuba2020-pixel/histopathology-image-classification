@@ -98,3 +98,9 @@ histopathology-image-classification/
 ├── confusion_matrix.png
 ├── training_validation_accuracy.png
 └── training_validation_loss.png
+
+## Histopathology Image Sample
+
+Example of a breast-tissue histopathology image from the BreakHis dataset used in this CNN-based classification project.
+
+![Histopathology tissue image](SOB_M_DC-14-2523-40-010.png)
